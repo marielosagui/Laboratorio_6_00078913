@@ -1,0 +1,3 @@
+function tipos (arreglo,tipo){
+
+}
